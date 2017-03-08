@@ -9,7 +9,7 @@ package com.capinfo.test;
 
 public class test {
     public  void  test(){
-        System.out.print("aaaaaaa");
+        System.out.print("³ÂÕñÌÎÕæ³ó");
     }
 
 
